@@ -1,0 +1,10 @@
+# Compilados
+bin/
+*.class
+
+# Arquivos do Astah gerados ao salvar
+*.asta.bak
+*.lock
+
+# Material da disciplina (reprodução não autorizada)
+*.pdf
